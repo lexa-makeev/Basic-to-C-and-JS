@@ -44,7 +44,24 @@ int characters[][5] = {
     {118, 137, 137, 137, 118}, // 8
     {70, 137, 137, 137, 126}   // 9
 };
-
+void print_symbol(int a)
+{
+    for (int i = 1; i <= 8; i++)
+    {
+        if (a < 128)
+        {
+            printf(" ");
+            a = a * 2;
+        }
+        else
+        {
+            printf("*");
+            a = a - 128;
+            a = a * 2;
+        }
+    }
+    printf("\n");
+}
 int main()
 {
     char A_char[10];
@@ -80,22 +97,4 @@ int main()
             printf("\n");
         }
     }
-}
-void print_symbol(int a)
-{
-    for (int i = 1; i <= 8; i++)
-    {
-        if (a < 128)
-        {
-            printf(" ");
-            a = a * 2;
-        }
-        else
-        {
-            printf("*");
-            a = a - 128;
-            a = a * 2;
-        }
-    }
-    printf("\n");
 }
