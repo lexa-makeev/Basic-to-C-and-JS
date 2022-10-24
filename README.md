@@ -25,11 +25,16 @@
 
 ## React
 
-### Windows
+### Web
+
+![ReactWeb](https://user-images.githubusercontent.com/74838417/197547350-9dbc2339-d324-4301-ab46-a29354d6e517.png)
+
+
+### Windows App
 
 ![win_app](https://user-images.githubusercontent.com/74838417/197540277-f7071fdd-0d7a-4f40-ab4e-5b43fc98b13c.png)
 
-### Mobile app
+### Mobile App
 
 ![Android_app](https://user-images.githubusercontent.com/74838417/197540403-16b0afdb-6cbb-4aab-88a1-68b3045910a5.jpg)
 
