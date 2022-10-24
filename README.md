@@ -19,4 +19,12 @@
 
 ![web](https://user-images.githubusercontent.com/74838417/197537006-5b436ddf-f12c-4c0a-bb50-06b2c33f45d7.png)
 
+## React
 
+### Windows
+
+![win_app](https://user-images.githubusercontent.com/74838417/197540277-f7071fdd-0d7a-4f40-ab4e-5b43fc98b13c.png)
+
+### Mobile app
+
+![Android_app](https://user-images.githubusercontent.com/74838417/197540403-16b0afdb-6cbb-4aab-88a1-68b3045910a5.jpg)
