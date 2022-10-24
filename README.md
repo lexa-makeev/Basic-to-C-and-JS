@@ -32,4 +32,4 @@
 ### Mobile app
 
 ![Android_app](https://user-images.githubusercontent.com/74838417/197540403-16b0afdb-6cbb-4aab-88a1-68b3045910a5.jpg)
->>>>>>> f4cf28a69058d94380b0e3b205b287cbcde42acf:README.md
+
