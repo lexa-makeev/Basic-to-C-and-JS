@@ -5,6 +5,7 @@
 2. [React](#React)
 
 ## Си
+Папка `c_project`
 ### Windows CLI
 Для тестирования кода на Windows CLI, требуется в папке запустить CLI и вписать команду `make project`, после ввести любые заглавные буквы для выполнения игры.
 
@@ -27,17 +28,20 @@
 ## React
 React позволяет делать кроссплатформенные приложения. Данный проект поддерживает билд под Web, Linux, Windows и MacOS, также с помощью React Native под Android приложение.
 ### Web
+Папка `react_app`
 Чтобы отобразить Веб-приложение в браузере следует в CLI ввести в проекте команду `npm install` для установок всех зависимостей проекта. После вы можете вписать `npm run electron:start` и перейти на локальный адрес, где у вас отобразится игра.
 
 ![ReactWeb](https://user-images.githubusercontent.com/74838417/197547350-9dbc2339-d324-4301-ab46-a29354d6e517.png)
 
 
 ### Windows App
+Папка `react_app`
 Чтобы забилдить приложение следует в CLI ввести в проекте команду `npm install` для установок всех зависимостей проекта. После вы можете вписать `npm run electron:package:win` и перейти в папку dist, где хранится .exe файл.
 
 ![win_app](https://user-images.githubusercontent.com/74838417/197540277-f7071fdd-0d7a-4f40-ab4e-5b43fc98b13c.png)
 
 ### Mobile App
+Папка `react_native`
 Чтобы забилдить приложение следует установить expo, для этого в CLI введите `npm install -g expo`. Далее в проекте введите команду `npm install` для установок всех зависимостей проекта. После вы можете запустить проект `npm start`. Далее с помощью виртуального телефона (Android Studio), можно запустить игру на телефоне.
 
 ![Android_app](https://user-images.githubusercontent.com/74838417/197540403-16b0afdb-6cbb-4aab-88a1-68b3045910a5.jpg)
